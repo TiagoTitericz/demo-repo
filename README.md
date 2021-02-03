@@ -24,3 +24,4 @@ Learning ho to use GitHub and repositories
 14. git pull origin main #Bring the changes from GitHub to my machine
 15. git branch -d feature-readme-instructions
 16. #If you have a modified file and not a new file, you can skip git add and go through git commit -am
+17. git pull #Seeing the merge on my machine
